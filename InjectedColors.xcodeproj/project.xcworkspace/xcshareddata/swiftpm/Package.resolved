@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Injectable",
+        "repositoryURL": "https://github.com/enuance/Injectable.git",
+        "state": {
+          "branch": "master",
+          "revision": "42ac13d4044d08858aa21ba5d6e192e8c7c939ef",
+          "version": null
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa.git",
+        "state": {
+          "branch": null,
+          "revision": "fe75d2a5ab7e2d6244c5c61f9fb3e9134bf270f0",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "RealmCore",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "d2f6573960c84ebea3e0236047b3d976f95a5d7a",
+          "version": "5.23.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
